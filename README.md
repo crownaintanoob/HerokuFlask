@@ -23,4 +23,3 @@
 **Ref:**
 
 * [Flask Example](http://flask.pocoo.org)
-* [Bash in Python](http://blog.nuventure.in/2014/09/04/executing-bash-commands-via-python)
