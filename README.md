@@ -11,8 +11,15 @@
 
     git init
     git add requirements.txt Procfile app.py  
+    git commit -am "init"  
+    
+**Setup Heroku**
+
+    heroku login
     heroku git:remote -a flaskapp01
-    git commit -am "init"
+
+**Push to Heroku**
+
     git push heroku master
     
 **Run App Locally:**
