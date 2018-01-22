@@ -1,7 +1,7 @@
 # Simple Python Web App for Heroku
 
-[This App on Heroku](https://flaskapp01.herokuapp.com)
-[Python on Heroku](https://devcenter.heroku.com/categories/python-support)
+* [This App on Heroku](https://flaskapp01.herokuapp.com)  
+* [Python Docs on Heroku](https://devcenter.heroku.com/categories/python-support)  
 
 #### Install
 
