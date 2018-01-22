@@ -1,5 +1,6 @@
 # Simple Python Web App for Heroku
 
+* [Based on](http://flask.pocoo.org)
 * [This App on Heroku](https://flaskapp01.herokuapp.com)  
 * [Python Docs on Heroku](https://devcenter.heroku.com/categories/python-support)  
 * [Inception on Heroku](https://github.com/EN10/InceptionHeroku)
@@ -33,7 +34,3 @@
 * [requirements.txt](https://raw.githubusercontent.com/EN10/PythonHeroku/master/requirements.txt) prerequisite pip packages for app.py
 * [Procfile](https://raw.githubusercontent.com/EN10/PythonHeroku/master/Procfile) command to run app.py
 * [app.py](https://raw.githubusercontent.com/EN10/PythonHeroku/master/app.py) flask / python app
-
-**Ref:**
-
-* [Flask Example](http://flask.pocoo.org)
