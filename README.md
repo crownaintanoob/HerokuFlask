@@ -30,8 +30,8 @@
 
 #### Files:
 
-* [requirements.txt](https://raw.githubusercontent.com/EN10/PythonHeroku/master/requirements.txt) prerequisite pip packages
-* [Procfile](https://raw.githubusercontent.com/EN10/PythonHeroku/master/Procfile) command to run
+* [requirements.txt](https://raw.githubusercontent.com/EN10/PythonHeroku/master/requirements.txt) prerequisite pip packages for app.py
+* [Procfile](https://raw.githubusercontent.com/EN10/PythonHeroku/master/Procfile) command to run app.py
 * [app.py](https://raw.githubusercontent.com/EN10/PythonHeroku/master/app.py) flask / python app
 
 **Ref:**
