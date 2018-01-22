@@ -1,6 +1,7 @@
 # Simple Python Web App for Heroku
 
-[Heroku Example](https://flaskapp01.herokuapp.com)
+[This App on Heroku](https://flaskapp01.herokuapp.com)
+[Python on Heroku](https://devcenter.heroku.com/categories/python-support)
 
 #### Install
 
@@ -14,9 +15,12 @@
     git commit -am "init"
     git push heroku master
     
-cs50 debug:
+**Run App Locally:**
 
-    	app.run(host='0.0.0.0', port=8080)
+    export FLASK_APP=app.py
+    flask run --host=0.0.0.0 --port=8080
 
-[Flask Example](http://flask.pocoo.org)
-[Bash in Python](http://blog.nuventure.in/2014/09/04/executing-bash-commands-via-python)
+**Ref:**
+
+* [Flask Example](http://flask.pocoo.org)
+* [Bash in Python](http://blog.nuventure.in/2014/09/04/executing-bash-commands-via-python)
