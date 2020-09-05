@@ -1,6 +1,6 @@
 # Simple Python Web App for Heroku
 
-* Based on [Flask Hello World](http://flask.pocoo.org)
+* Based on [Flask Hello World](https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application)
 * [This App on Heroku](https://flaskapp01.herokuapp.com)  
 * [Python Docs on Heroku](https://devcenter.heroku.com/categories/python-support)  
 * [Inception on Heroku](https://github.com/EN10/InceptionHeroku)
